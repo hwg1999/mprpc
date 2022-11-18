@@ -1,5 +1,4 @@
-zookeeper-3.4.10
+zookeeper*
 bin
 build
 lib
-example
